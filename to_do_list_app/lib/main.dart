@@ -14,13 +14,13 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyBgGsXbT25QPjVkpycgFiIiIWwJ7yvGjT4",
-      authDomain: "to-do-list-app-44ffb.firebaseapp.com",
-      projectId: "to-do-list-app-44ffb",
-      storageBucket: "to-do-list-app-44ffb.appspot.com",
-      messagingSenderId: "112150559390",
-      appId: "1:112150559390:web:c3ead7037ce45ee267198f",
-      measurementId: "G-LRBMMB2SZE",
+      apiKey: "--------------------------------------",
+      authDomain: "---------------------------------------",
+      projectId: "-------------------------------------",
+      storageBucket: "----------------------------------",
+      messagingSenderId: "-----------------------------------",
+      appId: "--------------------------------------",
+      measurementId: "-----------------------",
     ),
   );
 
